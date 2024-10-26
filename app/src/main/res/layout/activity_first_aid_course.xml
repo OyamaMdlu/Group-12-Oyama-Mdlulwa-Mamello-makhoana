@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C5F38F"
+    tools:context=".FirstAidCourseActivity">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="First aid "
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.241" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This training provides fundamental first aid information that can save lives in commonplace circumstances. Techniques for responding to emergencies,
+such as treating cuts, burns, and fractures, will be taught to learners.
+Important techniques like managing respiratory distress (such as choking
+or restricted airways) and performing cardio-pulmonary resuscitation (CPR) are discussed.
+Graduates will become important members of any home or workplace as they acquire the self-assurance and emergency crisis management skills.
+
+Highlights of the course:
+o Management of wounds and bleeding
+o Treatment for fractures and burns
+o Management of emergency scenes
+o CPR, or cardiopulmonary resuscitation
+o Handling respiratory distress, such as choking or clogged airways
+Sewing
+
+Students who complete this course will be able to change and tailor clothing, which is a necessary skill in both home and work environments. From comprehending different sorts of stitches to operating a sewing machine, participants will obtain practical knowledge that can be transformed into a profitable business. Graduates will be qualified to provide tailoring services, ranging from simple adjustments to the design and production of brand-new clothing.
+
+
+Highlights of the course:
+o Stitch types and sewing machine threading
+o Stitching seams, hems, buttons, and zippers
+o Modifications to apparel
+o Designing and sewing new outfits
+"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.712" />
+</androidx.constraintlayout.widget.ConstraintLayout>

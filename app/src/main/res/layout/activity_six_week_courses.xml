@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#9CE39F"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="153dp"
+        android:layout_height="35dp"
+        android:text="Six week course"
+        android:textSize="28dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.446"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.045" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Child minding
+
+The focus of this course is on caring for young children, from babies to toddlers. The unique needs of infants and young children at various developmental stages, from birth to toddlerhood, will be covered in the training for participants. Graduates of this programme will be qualified to operate as professional childminders, guaranteeing the security and welfare of the kids under their supervision.
+
+Highlights of the course:
+o Having knowledge of the requirements of infants (birth to six months)
+o Providing for infants from seven months to a year
+o Taking care of the needs of toddlers (up to 3 years old)
+o Assisting children's growth with educational toys
+Cooking
+
+This course offers hands-on instruction in cooking wholesome, balanced meals for the family. Students will comprehend meal planning, how to prepare different foods, and the nutritional needs for a healthy body. Graduates will be qualified to work as professional chefs or add healthy meal preparation to their domestic service offers.
+
+
+Highlights of the course:
+o The foods a body needs to stay healthy
+o Vegetables, grains, and protein varieties
+o Arranging and preparing meals
+o Making and preparing wholesome meals
+
+
+Garden maintenance
+
+This course provides hands-on experience in household garden maintenance, emphasizing plant propagation, pruning, and watering. To ensure that both native and exotic plants flourish in the garden, participants will learn how to properly care for them. Graduates will be equipped to take care of their own gardens or provide professional garden maintenance services.
+
+Highlights of the course:
+o Limitations and requirements for watering both native and exotic plants
+o Plant propagation and pruning methods
+o Planting strategies for various kinds of plants"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.84" />
+</androidx.constraintlayout.widget.ConstraintLayout>
